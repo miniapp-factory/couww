@@ -1,0 +1,86 @@
+
+# 2025-11-20 21:56:30.555068
++Code the following app
++```
++Create an application for tracking sleep.
++Functional requirements:
++
++The user can enter the time they went to sleep and the time they woke up.
++
++The app automatically calculates the total sleep duration.
++
++The user can view their sleep history by day, week, or month.
++
++The app generates basic statistics: average sleep duration, shortest and longest sleep sessions.
++
++Include a simple bedtime reminder feature (non-medical, just user-defined time notifications).
++
++Store all data locally (e.g., using SQLite or a JSON file).
++
++Technical requirements 
++
++Programming language: Python 
++
++Interface: console app / web app / mobile app.
++
++Code should be clean, readable, and well-commented.
++
++Additional features:
++
++Allow exporting data (CSV or JSON).
++
++Optional: simple data visualization (e.g., Matplotlib, Chart.js).
++
++If you want, I can also:
++
++🔹 generate the full code
++🔹 create a prompt tailored to a specific technology
++🔹 design the whole structure of the app
++
++Just tell me the language and type of application you want!
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 21:56:30.555789
++Code the following app
++```
++Create an application for tracking sleep.
++Functional requirements:
++
++The user can enter the time they went to sleep and the time they woke up.
++
++The app automatically calculates the total sleep duration.
++
++The user can view their sleep history by day, week, or month.
++
++The app generates basic statistics: average sleep duration, shortest and longest sleep sessions.
++
++Include a simple bedtime reminder feature (non-medical, just user-defined time notifications).
++
++Store all data locally (e.g., using SQLite or a JSON file).
++
++Technical requirements 
++
++Programming language: Python 
++
++Interface: console app / web app / mobile app.
++
++Code should be clean, readable, and well-commented.
++
++Additional features:
++
++Allow exporting data (CSV or JSON).
++
++Optional: simple data visualization (e.g., Matplotlib, Chart.js).
++
++If you want, I can also:
++
++🔹 generate the full code
++🔹 create a prompt tailored to a specific technology
++🔹 design the whole structure of the app
++
++Just tell me the language and type of application you want!
++```
++
++Generate an app logo and update the app metadata title and description.
